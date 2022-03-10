@@ -1,0 +1,16 @@
+{
+"companyName": "DefaultCompany",
+"productName": "Lab 3 for real",
+"productVersion": "0.1",
+"dataUrl": "lAB 3 FOR REAL FOR REAL.data.unityweb",
+"wasmCodeUrl": "lAB 3 FOR REAL FOR REAL.wasm.code.unityweb",
+"wasmFrameworkUrl": "lAB 3 FOR REAL FOR REAL.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Dark",
+"backgroundColor": "#231F20",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.31f1"
+}
